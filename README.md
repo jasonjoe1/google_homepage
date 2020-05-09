@@ -1,0 +1,1 @@
+A simple project to try out the knowledge I've learnt so far on the odin project. Basically, using just HTML and CSS to create a google search page.
